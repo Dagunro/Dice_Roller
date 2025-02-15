@@ -1,4 +1,4 @@
-This is a completed project tutorial using the android development with Jetpack compose course.
+This is a _Completed_ project tutorial using the **Android Basics with compose** course.
 
 Below is the image of the finished project
 
